@@ -37,11 +37,11 @@ def main() -> None:
         - Neste projeto não é utilizado banco de dados, apenas uma tabela do excel.
         - Conforme for desenvolvendo outras soluções, serão acrescentadas aqui, mas você também pode acessar meu portfólio.
         ### Quer saber mais?
-        - Veja os códigos [no GIT](https://streamlit.io)
+        - Acesse o repositório do projeto no [GITHUB](https://github.com/FelipeBalem/curry-company/)
         
         ### Contatos:
         - Envie uma mensagem para [felipe.balem.si@gmail.com](mailto:felipe.balem.si@gmail.com)
-        - Explore meu portfólio no [Github](https://github.com/streamlit/demo-uber-nyc-pickups)
+        - Explore meu [PORTIFÓLIO](https://felipebalem.github.io/portfolio_projetos/index.html)
         - Acesse meu [LinkedIn](https://linkedin.com/prof-felipe-balem)
         - Não possuo outras redes sociais.
     """
