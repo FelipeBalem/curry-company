@@ -42,7 +42,7 @@ def main() -> None:
         ### Contatos:
         - Envie uma mensagem para [felipe.balem.si@gmail.com](mailto:felipe.balem.si@gmail.com)
         - Explore meu [PORTIFÓLIO](https://felipebalem.github.io/portfolio_projetos/index.html)
-        - Acesse meu [LinkedIn](https://linkedin.com/prof-felipe-balem)
+        - Acesse meu [LinkedIn](https://www.linkedin.com/in/prof-felipe-balem)
         - Não possuo outras redes sociais.
     """
     )
